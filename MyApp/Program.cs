@@ -1,3 +1,4 @@
 ﻿Console.WriteLine("ingrese texto");
-
-Console.WriteLine("Hello, World!");
+string texto = Console.ReadLine();
+int numero = 4;
+Console.WriteLine("escribio el numero: "+ texto);
